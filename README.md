@@ -22,6 +22,7 @@ Macros available:
 | Room Kit Pro/SX80 GPIO | See how to get the device to perform some actions when triggering a change on the built in GPIO. Add an one-button-to-dial button on the wall. |
 | Scheduler | Have the endpint device automatically perform actions, like placing a call, at a specified time and day. |
 | Speed dials      | Always dialling the same few numbers from the meeting room. Maybe want to add calling 911 or the Pizza Place more prominent?     |
+| Proximity control      | Having multiple video endpoints in the same room and they're fighting over with proximity control over your phone or laptop. This macro allows you to have one simple button to control proximity.     |
 
 ## Requirements
 1. Cisco Room Device (MX, SX, DX and Room Kit series)
